@@ -7,7 +7,7 @@ Here I'm creating a simple Posts --> Comments Application using a Microservice A
 The app simply lets users create posts and add comments to any post,<br/>
 Users can see all posts and comments associated with the posts in a single view.
 
-I am using local storage to hold data since the focus is on the <br/>
+I'm storaging all data in memory since the focus is on the <br/>
 microservices design and not on database persistence.
 
 Frontend - Reactjs - $ npx create-react-app client<br/>
